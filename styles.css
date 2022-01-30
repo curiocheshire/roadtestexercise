@@ -20,6 +20,8 @@ p {
     letter-spacing: -.003em;
     font-size: 20px;
     padding: 70px;
+    justify-content: left;
+    align-content: center;
   }
 
  
