@@ -7,6 +7,10 @@ body {
     align-items: center;
 }
 
+h3 {
+    color: maroon;
+}
+
 p {
     font-family: 'Muli', sans-serif;
     color: slateblue;
